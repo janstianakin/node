@@ -17,6 +17,7 @@
 #include <initializer_list>
 #include <memory>
 #include <vector>
+// analysis data queue
 
 namespace node {
 
